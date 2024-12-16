@@ -12,4 +12,4 @@
 <a href="https://mguu.ru/undergraduate/kafedry/kafedra-ekonomiki-gorodskogo-hozyajstva/">
   <img src="https://i.ytimg.com/vi/0pyNCw4GaHs/maxresdefault.jpg"> 
 </a>
-<a href="">Третий документ</a> 
+<a href="https://artyom1bezusyy.github.io/Index3.html/">Третий документ</a> 
